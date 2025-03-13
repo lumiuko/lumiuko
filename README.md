@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-- 🌱 I’m currently learning **React** and **TypeScript**
+- 🌱 I use **React** and **TypeScript**
 
 - 📫 How to reach me **kudavidss@gmail.com**
 
